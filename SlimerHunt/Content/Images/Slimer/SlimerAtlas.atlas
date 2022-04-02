@@ -1,0 +1,31 @@
+SlimerImage
+	0,0,120,61
+	0.5,0.5
+NorthFrame1
+	0,62,16,30
+	0.5,0.5
+NorthFrame2
+	17,62,16,30
+	0.5,0.5
+SouthFrame1
+	34,62,16,30
+	0.5,0.5
+SouthFrame2
+	51,62,16,30
+	0.5,0.5
+HorizontalFrame1
+	68,62,16,29
+	0.5,0.5
+HorizontalFrame2
+	85,62,16,29
+	0.5,0.5
+
+Horizontal
+	7
+	5,6
+North
+	7
+	1,2
+South
+	7
+	3,4
